@@ -1,58 +1,85 @@
-# 🌐 HTML, CSS & JavaScript Basics
+# Frontend Web Development
 
-This repository contains my learning journey of **HTML, CSS, and JavaScript fundamentals**.
+A collection of frontend web development projects and practice exercises built using **HTML5**, **CSS3**, **JavaScript**, Tailwind CSS, and modern browser APIs.
 
-It is organized in a beginner-friendly way with:
-
-* 📄 Example code
-* 📝 Notes for each topic
-* 💡 Practice questions
+This repository documents my learning journey through frontend development concepts, starting from HTML fundamentals to dynamic JavaScript applications.
 
 ---
 
-## 📂 Folder Structure
+## Topics Covered
 
-* **01-html-basics** → Tags, tables, basic HTML structure
-* **02-flexbox** → Flexbox layouts
-* **03-grid** → CSS Grid concepts
-* **04-forms** → Forms and input handling
-* **05-tailwind** → Tailwind CSS basics
-* **06-javascript** → JS fundamentals (variables, functions)
-* **07-dom** → DOM manipulation
-* **08-arrays** → Array operations
-* **09-practice-questions** → Practice problems
+### HTML & CSS
 
----
+- HTML5 Structure
+- Tables
+- Forms
+- Semantic Tags
+- CSS Styling
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Tailwind CSS
 
-## 🚀 How to Use
+### JavaScript
 
-1. Open any folder
-2. Read `notes.md` for theory
-3. Run `.html` or `.js` files to see examples
+- Variables
+- Functions
+- Arrays
+- Objects
+- Loops
+- Conditions
+- DOM Manipulation
+- Events
+- Form Validation
+- Dynamic UI
+- Image Manipulation
 
----
+### Data Visualization
 
-## 🎯 Purpose
-
-This repository is created to:
-
-* Strengthen my fundamentals
-* Help beginners learn easily
-
----
-
-## 📌 Future Improvements
-
-* Add mini projects
-* Add more JavaScript concepts
-* Improve UI examples
+- Chart.js
+- Plotly.js
 
 ---
 
-## 🙌 Contributions
+## Repository Structure
 
-Feel free to fork and use for learning!
+```text
+frontend-web-development/
+
+├── 01_html_basics/
+├── 02_flexbox/
+├── 03_css_grid/
+├── 04_forms/
+├── 05_tailwind_css/
+├── 06_javascript_basics/
+├── 07_dom_manipulation/
+├── 08_arrays_objects/
+├── 09_practice_questions/
+├── 10_form_validation/
+├── 11_form_submission/
+├── 12_chartjs/
+├── 13_plotly/
+```
 
 ---
 
-⭐ If you find this useful, consider giving it a star!
+## Learning Outcomes
+
+- HTML5
+- CSS3
+- Flexbox
+- Grid Layout
+- Tailwind CSS
+- JavaScript Fundamentals
+- DOM Manipulation
+- Event Handling
+- Form Validation
+- Browser APIs
+- Interactive UI Development
+- Data Visualization
+
+---
+
+## Author
+
+**Varsha H G**
